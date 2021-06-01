@@ -1,0 +1,12 @@
+distancesFileName	    berlin52.tsp
+populationSize		    10008
+numberOfGenerations	    500
+numberOfRuns		    10
+tournamentSize          4
+tournamentProbability   1
+crossoverRate		    1
+mutationRate		    0.7
+numberOfIslands		    16
+migrationInterval       50
+migrationRate           0.8
+randomSeed              8512376
